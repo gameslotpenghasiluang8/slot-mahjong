@@ -1,0 +1,18 @@
+{
+  "name": "slot-mahjong",
+  "main": "./lib/slot-mahjong",
+  "version": "1.0.0",
+  "description": "Download Apk Demo Trik Main Slot Mahjong Langsung Dapat Bonus Tanpa Deposit",
+  "keywords": ["slot pragmatic play","pocket gaming soft","agen toto play","slot habanero","slot pg soft","bandar slot online","slot joker gaming","pocket gaming soft"],
+
+  "activationCommands": {
+    "atom-workspace": "slot-mahjong:toggle"
+  },
+  "repository": "https://github.com/gameslotpenghasiluang8/slot-mahjong",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
